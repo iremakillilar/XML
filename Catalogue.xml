@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <book>
+        <id>01</id>
+        <title>Kinyas ve Kayra </title>
+        <author>Hakan Günday</author>
+        <publisher>Doğan Kitap </publisher>
+        <isbn>9789759917951</isbn>
+        <date>2014</date>
+        <price>34.96</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Kinyas-Ve-Kayra/Edebiyat/Roman/Turkiye-Roman/urunno=0000000131986</url>
+    </book>
+    <book>
+        <id>02</id>
+        <title>Daha</title>
+        <author>Hakan Günday</author>
+        <publisher>Doğan Kitap</publisher>
+        <isbn>9786050917260</isbn>
+        <date>2013</date>
+        <price>31.92</price>
+        <language>Türkçe</language>
+    <url>https://www.dr.com.tr/Kitap/Daha/Edebiyat/Roman/Turkiye-Roman/urunno=0000000563302</url>
+    </book>
+    <book>
+        <id>03</id>
+        <title>Martin Eden</title>
+        <author>Jack London</author>
+        <publisher>Destek Yayınları</publisher>
+        <isbn>9786053114437</isbn>
+        <date>2018</date>
+        <price>14.44</price>
+        <language>Türkçe </language>
+        <url>https://www.dr.com.tr/Kitap/Martin-Eden/Edebiyat/Roman/Dunya-Klasik/urunno=0001765308001</url>
+    </book>
+    <book>
+        <id>04</id>
+        <title>Fantastic Beasts and Where to Find Them: Hogwarts Library Book</title>
+        <author>J.K. Rowling </author>
+        <publisher>Bloomsbury</publisher>
+        <isbn>9781408896945</isbn>
+        <date>2018</date>
+        <price>41.33</price>
+        <language> İngilizce </language>
+        <url>https://www.idefix.com/Kitap/Fantastic-Beasts-and-Where-to-Find-Them-Hogwarts-Library-Book/Foreign-Languages/Literature-and-Novel/Fantasy/urunno=0001782067001</url>
+    </book>
+    <book>
+        <id>05</id>
+        <title>Hamlet</title>
+        <author>William Shakespeare</author>
+        <publisher>Kaknüs Yayınları</publisher>
+        <isbn> 9789752564800</isbn>
+        <date>2018</date>
+        <price>10.50</price>
+        <language>İngilizce</language>
+     <url>https://www.idefix.com/Kitap/Hamlet/Foreign-Languages/Literature-And-Novel/Classics/urunno=0001776058001</url>
+    </book>
+    <book>
+        <id>06</id>
+        <title>Dorian Gray'in Portresi</title>
+        <author>Oscar Wilde</author>
+        <publisher>İş Bankası Kültür Yayınları</publisher>
+        <isbn>9786052956267</isbn>
+        <date>2018</date>
+        <price>13.30</price>
+        <language> Türkçe </language>
+     <url>https://www.dr.com.tr/Kitap/Dorian-Grayin-Portresi/Edebiyat/Roman/Dunya-Klasik/urunno=0001783290001</url>
+    </book>
+    <book>
+        <id>07</id>
+        <title>Defterler</title>
+        <author>Nilgün Marmara</author>
+        <publisher>Everest Yayınları</publisher>
+        <isbn>9786051850382</isbn>
+        <date>2016</date>
+        <price>32.83</price>
+        <language> Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Defterler/Edebiyat/Turk-Gunluk-Ani/urunno=0000000714716</url>
+    </book>
+    <book>
+        <id>08</id>
+        <title>İnsanlık 2.0</title>
+        <author>Ray Kurzweil</author>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786051712550</isbn>
+        <date>2016</date>
+        <price>36.40</price>
+        <language> Türkçe </language>
+ <url>https://www.idefix.com/Kitap/Insanlik-2-0/Bilim/Populer-Bilim/urunno=0000000688766</url>
+    </book>
+    <book>
+        <id>09</id>
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <publisher> İthaki Yayınları</publisher>
+        <isbn>9786053754794</isbn>
+        <date>2016</date>
+        <price>31.20</price>
+        <language> Türkçe </language>
+     <url>https://www.idefix.com/Kitap/Dune/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000662978</url>
+    </book>
+    <book>
+        <id>10</id>
+        <title>Dune Çocukları</title>
+        <author>Frank Herbert</author>
+        <publisher>İthaki Yayınları</publisher>
+        <isbn> 9786053756026</isbn>
+        <date>2016</date>
+        <price>28.60</price>
+        <language> Türkçe </language>
+     <url>https://www.idefix.com/Kitap/Dune-Cocuklari/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000719727</url>
+    </book>
+    <book>
+        <id>11</id>
+        <title>Dune Tanrı İmparatoru</title>
+        <author>Frank Herbert</author>
+        <publisher>İthaki Yayınları</publisher>
+        <isbn>  9786053757207</isbn>
+        <date>2017</date>
+        <price>28.60</price>
+        <language> Türkçe </language>
+     <url>https://www.idefix.com/Kitap/Dune-Tanri-Imparatoru-Clz/Edebiyat/Roman/Bilim-Kurgu/urunno=0001723185001</url>
+    </book>
+    <book>
+        <id>12</id>
+        <title>Python 3</title>
+        <author>Onur Sevli</author>
+        <publisher>Kodlab</publisher>
+        <isbn>9786052118061</isbn>
+        <date>2017</date>
+        <price>25.20</price>
+        <language> Türkçe </language>
+     <url>https://www.dr.com.tr/Kitap/Python-3/Egitim-Basvuru/Bilgisayar/urunno=0001740083001</url>
+    </book>
+    <book>
+        <id>13</id>
+        <title>SQL Server 2017</title>
+        <author>İsmail Adar</author>
+        <publisher>Abaküs Kitap</publisher>
+        <isbn>9786059129343</isbn>
+        <date>2016</date>
+        <price>48.40</price>
+        <language> Türkçe </language>
+     <url>https://www.dr.com.tr/Kitap/Sql-Server-2017/Egitim-Basvuru/Bilgisayar/urunno=0000000678235</url>
+    </book>
+    <book>
+        <id>14</id>
+        <title>Okumak, Yazmak ve Yaşamak Üzerine</title>
+        <author>Arthur Schopenhauer</author>
+        <publisher> Say Yayınları</publisher>
+        <isbn> 9789754687002</isbn>
+        <date>2016</date>
+        <price>10.50</price>
+        <language> Türkçe </language>
+ <url>https://www.idefix.com/Kitap/Okumak-Yazmak-Ve-Yasamak-Uzerine/Felsefe/Felsefe-Bilimi/urunno=0000000249643</url>
+    </book>
+    <book>
+        <id>15</id>
+        <title>Var Olma Eğilimi</title>
+        <author>Emil Michel Cioran</author>
+        <publisher>Metis Yayıncılık</publisher>
+        <isbn> 9786053160304</isbn>
+        <date>2016</date>
+        <price>17.50</price>
+        <language> Türkçe </language>
+        <url>https://www.idefix.com/Kitap/Var-Olma-Egilimi/Emil-Michel-Cioran/Felsefe/Felsefe-Bilimi/urunno=0000000683735</url>
+    </book>
+    <book>
+        <id>16</id>
+        <title>50 Soruda Yapay Zeka</title>
+        <author>Cem Say</author>
+        <publisher>Bilim ve Gelecek</publisher>
+        <isbn>9786055888589</isbn>
+        <date>2018</date>
+        <price>19.50</price>
+        <language> Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/50-Soruda-Yapay-Zeka/Bilim/Populer-Bilim/urunno=0001780164001</url>
+    </book>
+    <book>
+        <id>17</id>
+        <title>Cesur Yeni Dünya</title>
+        <author>Aldous Huxley</author>
+        <publisher>İthaki Yayınları</publisher>
+        <isbn>9789756902165</isbn>
+        <date>2003</date>
+        <price>17.40</price>
+        <language> Türkçe </language>
+ <url>https://www.dr.com.tr/Kitap/Cesur-Yeni-Dunya/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000066424</url>
+    </book>
+    <book>
+        <id>18</id>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <publisher>MK Publications</publisher>
+        <isbn>9786059533515</isbn>
+        <date>2017</date>
+        <price>13.13</price>
+        <language> İngilizce </language>
+     <url>https://www.dr.com.tr/Kitap/Pride-And-Prejudice/Foreign-Languages/Literature-And-Novel/Classics/urunno=0001736589001</url>
+    </book>
+    <book>
+        <id>19</id>
+        <title>Metamorphosis</title>
+        <author>Franz Kafka</author>
+        <publisher>Ren Kitap</publisher>
+        <isbn>9786057944207</isbn>
+        <date>2019</date>
+        <price>9.90</price>
+        <language> İngilizce</language>
+     <url>https://www.dr.com.tr/Kitap/Metamorphosis/Foreign-Languages/Literature-and-Novel/Classics/urunno=0001792626001</url>
+    </book>
+    <book>
+        <id>20</id>
+        <title>Bilinmeyen Bir Kadının Mektubu</title>
+        <author>Stefan Zweig</author>
+        <publisher>İş Bankası Kültür Yayınları</publisher>
+        <isbn> 9786053606604</isbn>
+        <date>2012</date>
+        <price>3.60</price>
+        <language> Türkçe </language>
+     <url>https://www.idefix.com/Kitap/Bilinmeyen-Bir-Kadinin-Mektubu/Edebiyat/Roman/Dunya-Roman/urunno=0000000411059</url>
+    </book>
+    
+       
+</catalogue>
